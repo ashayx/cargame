@@ -1,0 +1,23 @@
+{
+	"resources":[
+	{
+		"name":"bg_jpg",
+		"type":"image",
+		"url":"assets/bg.jpg"
+	},
+	{
+		"name": "bg1",
+		"type": "image",
+		"url": "assets/bigbg.jpg"
+	},{
+		"name": "bg2",
+		"type": "image",
+		"url": "assets/game_bg.jpg"
+	},
+	{
+		"name": "game",
+		"type": "sheet",
+		"url": "assets/game.json"
+	}
+	]
+}
